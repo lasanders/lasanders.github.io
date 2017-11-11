@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "This is just the beginning"
-date:       2017-11-11 21:53:23 +0000
+date:       2017-11-11 16:53:24 -0500
 permalink:  this_is_just_the_beginning
 ---
 
